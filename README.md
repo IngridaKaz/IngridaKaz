@@ -1,5 +1,3 @@
-Hello! I'm a passionate professional with extensive experience in the fields of artificial intelligence, motion tracking, 3D animation, and computer vision.
-
 ## Connect with Me
 
 <a href="https://linkedin.com/in/kazenaite"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
