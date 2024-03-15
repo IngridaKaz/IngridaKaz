@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello! I'm a passionate professional with extensive experience in the fields of artificial intelligence, motion tracking, 3D animation, and computer vision.
 
-<!--
-**IngridaKaz/IngridaKaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with Me
 
-Here are some ideas to get you started:
+<a href="https://linkedin.com/in/kazenaite"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 **Educational Background**: I hold a Master of Science in IT Engineering from Vilnius Gediminas Technical University, where I've also been sharing my knowledge as a Lecturer since December 2021.
+- 🌍 **Location**: Currently based in Vilnius, Lithuania, with professional experiences in Vienna, Austria.
+- 🛠 **Skills**: Proficient in Python, PyTorch, OpenCV, Unity, Maya and various motion capture technologies including Qualisys.
+
+## Projects
