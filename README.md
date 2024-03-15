@@ -11,3 +11,4 @@ Hello! I'm a passionate professional with extensive experience in the fields of 
 - 🛠 **Skills**: Proficient in Python, PyTorch, OpenCV, Unity, Maya and various motion capture technologies including Qualisys.
 
 ## Projects
+<a href="https://github.com/IngridaKaz/Video-Motion-Capture">Video Motion Capture</a>
