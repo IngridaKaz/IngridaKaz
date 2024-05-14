@@ -10,5 +10,7 @@
 
 ## Projects
 <a href="https://github.com/IngridaKaz/TennisAnalisys">AI Tennis Analisys</a>
+
 <a href="https://github.com/IngridaKaz/Video-Motion-Capture">AI Video Motion Capture</a>
+
 
