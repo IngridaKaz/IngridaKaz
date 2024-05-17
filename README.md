@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 🎓 **Educational Background**: I hold a Master of Science in IT Engineering from Vilnius Gediminas Technical University, where I've also been sharing my knowledge as a Lecturer since December 2021.
+- 🎓 **Educational Background**: I hold a Master of Science in IT Engineering from Vilnius Gediminas Technical University.
 - 🌍 **Location**: Currently based in Vilnius, Lithuania, with professional experiences in Vienna, Austria.
-- 🛠 **Skills**: Proficient in Python, PyTorch, OpenCV, Unity, Maya and various motion capture technologies including Qualisys.
+- 🛠 **Skills**: Python, PyTorch, OpenCV, Unity, Maya and motion capture.
 
 ## Projects
 <a href="https://github.com/IngridaKaz/TennisAnalisys">AI Tennis Analisys</a>
